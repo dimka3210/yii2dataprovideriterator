@@ -1,5 +1,5 @@
 {
-    "name": "juffin_halli/yii2-dataProviderIterator",
+    "name": "dimka3210/yii2dataprovideriterator",
     "description": "Yii2 Port of Yii 1.1 CDataProviderIterator",
     "keywords": ["yii", "extension", "widget", "dataProviderIterator"],
     "type": "yii2-extension",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "juffin_halli\\dataProviderIterator\\": ""
+            "dimka3210\\yii2dataprovideriterator\\": ""
         }
     }
 }
