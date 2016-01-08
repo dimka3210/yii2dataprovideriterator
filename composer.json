@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "dimka3210\\yii2dataprovideriterator\\": ""
+            "DataProviderIterator":"dimka3210/yii2dataprovideriterator"
         }
     }
 }
