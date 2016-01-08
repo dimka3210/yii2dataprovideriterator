@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "juffin_halli\\dataProviderIterator":"dimka3210/yii2dataprovideriterator"
+            "juffin_halli\\dataProviderIterator\\":"dimka3210/yii2dataprovideriterator"
         }
     }
 }
